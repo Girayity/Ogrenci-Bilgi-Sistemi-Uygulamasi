@@ -1,0 +1,6 @@
+c:\users\giray\documents\visual studio 2015\Projects\Öğrenci Bilgi Sistemi\Öğrenci Bilgi Sistemi\bin\Debug\Öğrenci Bilgi Sistemi.exe.config
+c:\users\giray\documents\visual studio 2015\Projects\Öğrenci Bilgi Sistemi\Öğrenci Bilgi Sistemi\bin\Debug\Öğrenci Bilgi Sistemi.exe
+c:\users\giray\documents\visual studio 2015\Projects\Öğrenci Bilgi Sistemi\Öğrenci Bilgi Sistemi\bin\Debug\Öğrenci Bilgi Sistemi.pdb
+c:\users\giray\documents\visual studio 2015\Projects\Öğrenci Bilgi Sistemi\Öğrenci Bilgi Sistemi\obj\Debug\Öğrenci Bilgi Sistemi.csprojResolveAssemblyReference.cache
+c:\users\giray\documents\visual studio 2015\Projects\Öğrenci Bilgi Sistemi\Öğrenci Bilgi Sistemi\obj\Debug\Öğrenci Bilgi Sistemi.exe
+c:\users\giray\documents\visual studio 2015\Projects\Öğrenci Bilgi Sistemi\Öğrenci Bilgi Sistemi\obj\Debug\Öğrenci Bilgi Sistemi.pdb
